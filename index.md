@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+nav_order: 1
 ---
 
 I'm Kristen Brickner, an aspiring security researcher specializing in AI and cloud security. This blog documents my journey from career transition to independent security researcher.
