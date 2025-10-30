@@ -51,8 +51,8 @@ Over the next 12 months, I'm:
 
 ## Contact
 
-- **GitHub:** [github.com/yourusername](https://github.com/kbrickz)
-- **Twitter:** [@yourhandle](https://x.com/kaybrickz)
+- **GitHub:** [github.com/kbrickz](https://github.com/kbrickz)
+- **Twitter:** [@kaybrickz](https://x.com/kaybrickz)
 
 ## About This Site
 
@@ -61,4 +61,3 @@ This blog is built with Jekyll and hosted on GitHub Pages. All content is writte
 ---
 
 *Last updated: October 29, 2025*
-```
