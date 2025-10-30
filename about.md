@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 I'm Kristen Brickner, transitioning into security research with a focus on AI and cloud security.
 
 ## Background
