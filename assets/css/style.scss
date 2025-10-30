@@ -1,18 +1,17 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 /* Sticky navigation */
 .site-header {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: #2a2a2a; /* Dark background for dark theme */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3); /* Subtle shadow when scrolling */
+  background-color: #2a2a2a;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
-/* Ensure content doesn't jump behind header */
 .page-content {
   padding-top: 0;
 }
