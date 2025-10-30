@@ -8,11 +8,12 @@ url: "https://kbrickz.github.io"
 author: Kristen Brickner
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Minima theme settings
 minima:
