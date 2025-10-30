@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /home/
 ---
 
+# Home
 I'm Kristen Brickner, an aspiring security researcher specializing in AI and cloud security. This blog documents my journey from career transition to independent security researcher.
 
 ## What You'll Find Here
