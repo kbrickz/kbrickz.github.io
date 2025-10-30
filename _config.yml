@@ -1,13 +1,11 @@
 # Site settings
 title: Kristen Brickner | Security Research
-description: >-
-  Building in public - AI/Cloud security research, tools, and learning journey
+description: Building in public - AI/Cloud security research, tools, and learning journey
 baseurl: ""
 url: "https://kbrickz.github.io"
 
 # Author
-author:
-  name: Kristen Brickner
+author: Kristen Brickner
 
 # Build settings
 theme: minima
