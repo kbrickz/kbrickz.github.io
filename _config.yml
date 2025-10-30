@@ -7,10 +7,11 @@ author: Kristen Brickner
 theme: minima
 markdown: kramdown
 
-# Social links
+# Social links (NO @ symbol for twitter!)
 github_username: kbrickz
-twitter_username: @kaybrickz
+x_username: kaybrickz
 
 # Exclude from processing
 exclude:
   - README.md
+```
