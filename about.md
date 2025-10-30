@@ -52,8 +52,7 @@ Over the next 12 months, I'm:
 ## Contact
 
 - **GitHub:** [github.com/yourusername](https://github.com/kbrickz)
-- **Twitter:** [@yourhandle](https://twitter.com/kaybrickz) (if applicable)
-- **Email:** your-public-email@example.com (if you want to share)
+- **Twitter:** [@yourhandle](https://x.com/kaybrickz)
 
 ## About This Site
 
