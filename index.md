@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Home
-permalink: /home/
 ---
 
-# Home
+# Welcome
+
 I'm Kristen Brickner, an aspiring security researcher specializing in AI and cloud security. This blog documents my journey from career transition to independent security researcher.
 
 ## What You'll Find Here
@@ -16,6 +15,7 @@ I'm Kristen Brickner, an aspiring security researcher specializing in AI and clo
 ## Current Focus
 
 I'm following a 12-month curriculum to transition into security research, with emphasis on:
+
 - AI/LLM security research
 - Cloud security (AWS/Azure)
 - Bug bounty hunting
