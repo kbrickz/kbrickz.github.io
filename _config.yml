@@ -1,0 +1,16 @@
+# Site settings
+title: Kristen Brickner | Security Research
+description: Building in public - AI/Cloud security research, tools, and learning journey
+author: Kristen Brickner
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Social links
+github_username: kbrickz
+twitter_username: @kaybrickz
+
+# Exclude from processing
+exclude:
+  - README.md
