@@ -1,11 +1,28 @@
 # Site settings
 title: Kristen Brickner | Security Research
-description: Building in public - AI/Cloud security research, tools, and learning journey
-author: Kristen Brickner
+description: >-
+  Building in public - AI/Cloud security research, tools, and learning journey
+baseurl: ""
+url: "https://kbrickz.github.io
+
+# Author
+author:
+  name: Kristen Brickner
 
 # Build settings
 theme: minima
 markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: dark
+
+#Navigation
+header_pages:
+  - about.md
 
 # Social links
 github_username: kbrickz
@@ -14,3 +31,5 @@ x_username: kaybrickz
 # Exclude from processing
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
