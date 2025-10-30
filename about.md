@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 2
 ---
 
 I'm Kristen Brickner, transitioning into security research with a focus on AI and cloud security.
