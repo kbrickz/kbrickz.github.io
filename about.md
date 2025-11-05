@@ -46,7 +46,7 @@ Over the next 12 months, I'm:
 ## Contact
 
 - **GitHub:** [github.com/kbrickz](https://github.com/kbrickz)
-- **Twitter:** [@kaybrickz](https://x.com/kaybrickz)
+- **X:** [@kaybrickz](https://x.com/kaybrickz)
 
 ## About This Site
 
