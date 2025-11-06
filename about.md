@@ -59,6 +59,7 @@ Most of my time: reading articles about emerging tech, global political discours
 
 - **GitHub:** [github.com/kbrickz](https://github.com/kbrickz)
 - **X:** [@kaybrickz](https://x.com/kaybrickz)
+- **X:** [@kaybrickz](https://x.com/kaybrickz)
 
 ---
 

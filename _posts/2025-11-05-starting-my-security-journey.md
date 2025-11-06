@@ -77,7 +77,7 @@ The tool works. It's on GitHub. First public security tool. Version 1.0.
 
 ## What Surprised Me
 
-**Friction matters more than I expected**: The 1-hour TryHackMe AttackBox limit would derail me on bad executive function days. Paying $10/month for unlimited access removes a daily decision point. When you're neurodivergent, reducing friction isn't laziness - it's architectural necessity.
+**Friction matters more than I expected**: The 1-hour TryHackMe AttackBox limit would derail me on bad executive function days. Paying a small fee for unlimited access removes a daily decision point. When you're neurodivergent, reducing friction isn't laziness - it's architectural necessity.
 
 **Building in public creates accountability**: I almost didn't make my repos public on Day 1. "They're empty, what's the point?" But empty repos say "watch this space." Public commits create pressure to keep going. Future me will be glad I started visibly.
 
