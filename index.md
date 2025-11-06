@@ -3,26 +3,36 @@ layout: home
 title: Welcome
 ---
 
-I'm Kristen, and I'm betting a year on learning cybersecurity.
+I'm Kristen. I'm documenting a 12-month sprint to become a security researcher, with focus on AI and cloud security.
 
-I'm coming from data work that made me feel dead inside - meaningless reports, corporate theater, asking permission to think. I have an MBA I don't use and grew up building things on the internet. Now I'm learning security to move closer to the life I actually want to live.
+## About This Blog
 
-## What This Is
+I'm transitioning from data analytics to security research. This blog tracks the process: what I'm building, what I'm learning, what's working and what isn't.
 
-I'm documenting everything publicly. 12 months. 50+ blog posts. 6-8 security tools. Learning to hunt bugs, do research, build tools, and work autonomously.
+I'm building in public. Every tool, every lesson, every mistake. The goal is financial and intellectual autonomy - bug bounty income, independent research, maybe the right remote role if it appears. Employment is an option, not the destination.
 
-The process will be honest. I lean on AI for implementation help. I'm autistic, so friction reduction and building in public help me stay accountable. Systems thinking clicks immediately. Programming syntax takes work.
+## What I'm Working On
 
-Not training to get hired. Training to work for myself. If the right remote role appears, I'll consider it. But employment is a stepping stone, not the destination.
+**Month 1-2: Foundations**
+Python security tools, Linux command line, web security fundamentals
 
-## What I'm Building
+**Month 3-4: Web Security**
+PortSwigger Academy, bug bounty hunting, building exploitation tools
 
-- **Security tools** - Python automation, starting with log parsers and scanners
-- **AI security research** - LLM vulnerabilities, prompt injection, red teaming (Months 7-8)
-- **Cloud security** - AWS/Azure offensive techniques (Months 5-6)
-- **Bug bounty income** - Proving capability through paid findings
+**Month 5-6: Cloud Security**
+AWS/Azure offensive techniques, cloud-native vulnerabilities
 
-Financial and intellectual sovereignty. That's the goal.
+**Month 7-8: AI Security**
+LLM vulnerabilities, prompt injection, red teaming frameworks
+
+**Month 9-12: Specialization**
+Deep research, consistent bug bounty income, public tools and findings
+
+## What You'll Find Here
+
+Technical write-ups, tool releases, weekly reflections, honest progress reports. I use AI assistance for implementation and document the process transparently.
+
+If you're considering a similar transition, this is the unfiltered version. Not a highlight reel.
 
 ## Latest Posts
 
