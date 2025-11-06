@@ -18,10 +18,8 @@ plugins:
 # Minima theme settings
 minima:
   skin: dark
-
-#Navigation
-header_pages:
-  - about.md
+  nav_pages:
+    - about.md
 
 # Social links
 github_username: kbrickz
