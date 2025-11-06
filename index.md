@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Breaking Things Better
 ---
 
-# Breaking Things Better
 ### A year-long public journey into offensive security, AI safety, and autonomous research practice
 
 Welcome. I'm Kristen — and this is the public lab notebook for my transition into independent security research.

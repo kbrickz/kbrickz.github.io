@@ -21,7 +21,6 @@ minima:
 
 #Navigation
 header_pages:
-  - index.md
   - about.md
 
 # Social links

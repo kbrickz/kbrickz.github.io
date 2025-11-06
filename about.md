@@ -7,7 +7,7 @@ nav_order: 2
 
 # About Me
 
-Hi — I'm **Kristen** (she/her).
+Hi — I'm Kristen (she/her).
 
 I'm a transgender woman rebuilding my life, identity, and capabilities from first principles.
 
