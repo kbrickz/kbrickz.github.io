@@ -5,57 +5,68 @@ permalink: /about/
 nav_order: 2
 ---
 
-I'm Kristen. I grew up poor in Lansing, Michigan, watching my parents work themselves to exhaustion to build from government assistance to a middle-class life. They took out loans to send me to private school so I'd have a shot. I was surrounded by wealth I'd never have, watching kids inherit futures while I started working at 14 to get myself through college.
+# About Me
 
-That shaped how I see the world. I understand there's an American caste system most people don't talk about. I've lived in the underbelly that's ignored while being told to be grateful for scraps. 
+Hi — I'm **Kristen** (she/her).
 
-I'm the sibling in my family who has the drive and the mind to eventually take care of my parents. Give them back what they sacrificed for me. That's what drives this.
+I'm a transgender woman rebuilding my life, identity, and capabilities from first principles.
 
-## Why Security
+My work draws from three pillars:
 
-I have an MBA I don't use and spent years in data analytics building dashboards for problems that don't matter. I'm good at seeing systems - asking "why" until I find the root cause, solving the actual problem instead of the immediate symptom. But corporate environments punish that. They want obedience, not depth.
+### Cognitive rigor
 
-I grew up on the internet. Dial-up, AOL, MySpace, early Facebook. I was building websites in 6th grade, wandering dark web forums as a teenager, learning to hide my online activity so I had one sovereign corner of the world. The internet isn't a tool for me - it's terrain. Forum culture, niche Discord servers, GitHub as living organism. Quiet corners where polymaths and weirdos talk openly at 2am. Spaces where ideas evolve faster than institutions allow.
+Systems thinking, structured research, and high-resolution learning habits.
 
-Security research gives me what corporate work doesn't: intellectual challenge, autonomy, work that actually matters. I'm betting a year on proving I can do genuinely hard things. Building tools, hunting bugs, doing original research. Not training to get hired - training to work for myself.
+### Technical security
 
-## What I Care About
+Offensive security, cloud exploitation, AI system red-teaming, and building open-source security tooling.
 
-**Autonomy and agency.** I optimize for independence. Multiple income streams, building my own systems, never asking permission to think.
+### Personal sovereignty
 
-**Systems thinking over quick fixes.** I frame problems as systems-of-systems. Long-term architecture that compounds, not band-aids.
+Self-directed skill-building, autonomy over work, and refusing to wait for external permission to become capable.
 
-**Open, user-owned technology.** Strong tilt toward open source, cryptographic trust, building things that empower real people.
+I’m not “breaking into” security —  
+I’m building myself into a security researcher in public, one week at a time.
 
-**Integrity over performance.** Living aligned with who I am, asking for candid feedback, refusing to mask competence as politeness.
+### What I'm doing
 
-What pisses me off: Systems built on manipulation or lazy thinking. Institutions that demand obedience instead of competence. People who confuse noise for insight.
+This blog documents a 12-month sprint to:
 
-What might surprise people: I'm idealistic beneath the armor. I believe technology can build more humane futures. I just don't think blind optimism gets us there.
+- Ship open-source security tools
+- Perform original research
+- Build a reputation through proof, not potential
+- Earn independent income (bug bounty + consulting)
+- Contribute meaningfully to AI and cloud security conversations
 
-## How I Work
+I believe in open learning, visible struggle, and earned capability.
 
-I build in public. Everything documented: tools, research, process, mistakes. I use AI assistance for implementation - not hiding that, documenting it transparently. 
+### What matters to me
 
-I think in "why" loops. Before solving a problem, I ask why several times to find root cause. Most people want fixes for right-now problems. I prefer solutions that eliminate the problem entirely and prevent future ones from emerging.
+- Autonomy over my time, mind, and identity
+- Craft over credentialism
+- Systems over shortcuts
+- Deep work over performative productivity
+- Public work over private aspiration
 
-I'm a systems thinker who prefers understanding over memorization. Concepts click immediately. Programming takes work. That gap will close with repetition, but right now I lean on AI for implementation help while typing everything myself to internalize patterns.
+I’m not chasing titles, certificates, or permission.
 
-## This Moment Matters
+I am building toward mastery and independence, and taking you with me.
 
-We're in a brief window where technology has democratized knowledge. AI is a replacement for college when wielded correctly. But this is also when the gap between wealthy and poor grows exponentially. 
 
-The advantages we have right now need to be used to progress humanity, not just the upper class. Otherwise systems collapse.
 
-That's why I'm documenting this publicly. Showing what's actually possible. Not the highlight reel - the whole process.
+### If you're here, you probably care about:
 
-## Life Outside This
+- AI safety & security
+- Offensive security research
+- Ethical hacking & bug bounty
+- Cloud exploitation and defense
+- Trans self-determination & identity truth
+- Becoming someone powerful through discipline and curiosity
 
-Simple. Running, yoga, cooking, Netflix with my partner (sci-fi and rom-coms). Occasional video games (Pokémon, Zelda, Mario) when time allows.
+Welcome.  
+Watch me build — and feel free to build alongside me.
 
-Most of my time: reading articles about emerging tech, global political discourse, psychological concepts I notice in myself or people around me. The internet is where I live.
-
-## Contact
+### Contact
 
 - **GitHub:** [github.com/kbrickz](https://github.com/kbrickz)
 - **X:** [@kaybrickz](https://x.com/kaybrickz)

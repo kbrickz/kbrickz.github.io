@@ -10,50 +10,57 @@ Welcome. I'm Kristen — and this is the public lab notebook for my transition i
 
 I am building a practice at the intersection of:
 
-- Offensive security & cloud exploitation  
-- AI and LLM red teaming  
-- Self-directed technical learning  
-- Public research & open-source tooling  
-- Identity re-platforming and self-authorship  
+- Offensive security & cloud exploitation
+- AI and LLM red teaming
+- Self-directed technical learning
+- Public research & open-source tooling
+- Identity re-platforming and self-authorship
 
 This space documents the process — not just the results.
 
 ## Why this exists
 
 Most cybersecurity journeys are built around:
-- Studying quietly  
-- Collecting certificates  
-- Applying for jobs  
-- Waiting for permission  
+- Studying quietly
+- Collecting certificates
+- Applying for jobs
+- Waiting for permission
 
 This one is different.
 
 I am not training to get hired.
 
-I am **building the capability and proof to operate independently** — as a researcher, builder, and contributor to security in AI systems and cloud environments.
+I am building the capability and proof to operate independently — as a researcher, builder, and contributor to security in AI systems and cloud environments.
 
-Employment is a possible outcome.  
-**Autonomy is the primary goal.**
+Employment is a possible outcome.
+Autonomy is the primary goal.
 
 ## What you will find here
 
-- Weekly research logs & technical breakdowns  
-- Open-source security tools and frameworks  
-- Cloud exploitation studies  
-- AI red-teaming experiments & LLM vuln research  
-- Bug bounty methodology and findings (ethical & disclosed)  
-- Notes on the psychology and identity work behind transition into technical agency  
+- Weekly research logs & technical breakdowns
+- Open-source security tools and frameworks
+- Cloud exploitation studies
+- AI red-teaming experiments & LLM vuln research
+- Bug bounty methodology and findings (ethical & disclosed)
+- Notes on the psychology and identity work behind transition — into womanhood, and into technical agency
 
 ## Year-long Research Roadmap Highlights
 
-- Foundations in Linux, networking, Python, and web security  
-- PortSwigger labs + custom exploit tooling  
-- Cloud security: AWS/Azure exploitation & automation  
-- AI red-teaming: prompt injection, tool-use attacks, indirect vectors  
-- Building original security research + presenting in public  
+- Foundations in Linux, networking, Python, and web security
+- PortSwigger labs + custom exploit tooling
+- Cloud security: AWS/Azure exploitation & automation
+- AI red-teaming: prompt injection, tool-use attacks, indirect vectors
+- Building original security research + presenting in public
 - Establishing independent income via bug bounty and consulting
 
-This is a **build in public** proof-of-work journey — with rigor, visibility, and accountability baked in.
+This is a build in public proof-of-work journey — with rigor, visibility, and accountability baked in.
+
+## Follow the work
+
+- Blog posts: weekly
+- New tools & improvements: weekly
+- Research drops: monthly
+- Major frameworks & papers: quarterly
 
 If you're curious about how technical capability, identity, and sovereignty evolve together — you’re in the right place.
 
@@ -61,7 +68,8 @@ If you're curious about how technical capability, identity, and sovereignty evol
 
 Let's break things, understand why they break, and build a future where we can trust what we build.
 
-— **Kristen**
+- **GitHub:** [github.com/kbrickz](https://github.com/kbrickz)
+- **X:** [@kaybrickz](https://x.com/kaybrickz)
 
 ## Latest Posts
 
