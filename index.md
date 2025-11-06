@@ -3,36 +3,65 @@ layout: home
 title: Welcome
 ---
 
-I'm Kristen. I'm documenting a 12-month sprint to become a security researcher, with focus on AI and cloud security.
+# Breaking Things Better
+### A year-long public journey into offensive security, AI safety, and autonomous research practice
 
-## About This Blog
+Welcome. I'm Kristen — and this is the public lab notebook for my transition into independent security research.
 
-I'm transitioning from data analytics to security research. This blog tracks the process: what I'm building, what I'm learning, what's working and what isn't.
+I am building a practice at the intersection of:
 
-I'm building in public. Every tool, every lesson, every mistake. The goal is financial and intellectual autonomy - bug bounty income, independent research, maybe the right remote role if it appears. Employment is an option, not the destination.
+- Offensive security & cloud exploitation  
+- AI and LLM red teaming  
+- Self-directed technical learning  
+- Public research & open-source tooling  
+- Identity re-platforming and self-authorship  
 
-## What I'm Working On
+This space documents the process — not just the results.
 
-**Month 1-2: Foundations**
-Python security tools, Linux command line, web security fundamentals
+## Why this exists
 
-**Month 3-4: Web Security**
-PortSwigger Academy, bug bounty hunting, building exploitation tools
+Most cybersecurity journeys are built around:
+- Studying quietly  
+- Collecting certificates  
+- Applying for jobs  
+- Waiting for permission  
 
-**Month 5-6: Cloud Security**
-AWS/Azure offensive techniques, cloud-native vulnerabilities
+This one is different.
 
-**Month 7-8: AI Security**
-LLM vulnerabilities, prompt injection, red teaming frameworks
+I am not training to get hired.
 
-**Month 9-12: Specialization**
-Deep research, consistent bug bounty income, public tools and findings
+I am **building the capability and proof to operate independently** — as a researcher, builder, and contributor to security in AI systems and cloud environments.
 
-## What You'll Find Here
+Employment is a possible outcome.  
+**Autonomy is the primary goal.**
 
-Technical write-ups, tool releases, weekly reflections, honest progress reports. I use AI assistance for implementation and document the process transparently.
+## What you will find here
 
-If you're considering a similar transition, this is the unfiltered version. Not a highlight reel.
+- Weekly research logs & technical breakdowns  
+- Open-source security tools and frameworks  
+- Cloud exploitation studies  
+- AI red-teaming experiments & LLM vuln research  
+- Bug bounty methodology and findings (ethical & disclosed)  
+- Notes on the psychology and identity work behind transition into technical agency  
+
+## Year-long Research Roadmap Highlights
+
+- Foundations in Linux, networking, Python, and web security  
+- PortSwigger labs + custom exploit tooling  
+- Cloud security: AWS/Azure exploitation & automation  
+- AI red-teaming: prompt injection, tool-use attacks, indirect vectors  
+- Building original security research + presenting in public  
+- Establishing independent income via bug bounty and consulting
+
+This is a **build in public** proof-of-work journey — with rigor, visibility, and accountability baked in.
+
+If you're curious about how technical capability, identity, and sovereignty evolve together — you’re in the right place.
+
+> _Reinvention is not running away from who you were — it’s finally becoming who you are._
+
+Let's break things, understand why they break, and build a future where we can trust what we build.
+
+— **Kristen**
 
 ## Latest Posts
 
